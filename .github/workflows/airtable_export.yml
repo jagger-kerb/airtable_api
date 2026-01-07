@@ -34,7 +34,7 @@ jobs:
           AIRTABLE_TABLE_ID: ${{ secrets.AIRTABLE_TABLE_ID }}
           AIRTABLE_VIEW_NAME: ${{ secrets.AIRTABLE_VIEW_NAME }}
           OUTPUT_CSV: data/events_list.csv
-        run: python scripts/Airtable_API_git.py
+        run: python Airtable_API_git.py
 
       - name: Commit and push if changed
         run: |
