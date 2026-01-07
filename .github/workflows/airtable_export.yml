@@ -1,9 +1,12 @@
 name: Export Airtable to CSV
 
 on:
-  workflow_dispatch: {}
   schedule:
-    - cron: "15 6 * * *"
+    # Runs once per day at 06:00 UTC
+    - cron: "0 5 * * *"
+
+  # Optional: lets you run it manually from the UI
+  workflow_dispatch: {}
 
 permissions:
   contents: write
@@ -31,7 +34,7 @@ jobs:
           AIRTABLE_TABLE_ID: ${{ secrets.AIRTABLE_TABLE_ID }}
           AIRTABLE_VIEW_NAME: ${{ secrets.AIRTABLE_VIEW_NAME }}
           OUTPUT_CSV: data/events_list.csv
-        run: python scripts/airtable_API_git.py
+        run: python scripts/Airtable_API_git.py
 
       - name: Commit and push if changed
         run: |
@@ -39,7 +42,7 @@ jobs:
             git config user.name "github-actions[bot]"
             git config user.email "github-actions[bot]@users.noreply.github.com"
             git add -A
-            git commit -m "Update Airtable CSV export"
+            git commit -m "Daily Airtable CSV export"
             git push
           else
             echo "No changes to commit."
