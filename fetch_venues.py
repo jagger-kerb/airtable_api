@@ -5,8 +5,8 @@ import pandas as pd
 
 
 BASE_ID = os.environ["AIRTABLE_BASE_ID"]
-TABLE_ID = os.environ["AIRTABLE_TABLE_ID_VENUES"]
-VIEW_NAME = os.environ.get("AIRTABLE_VIEW_NAME_VENUES", "").strip()  # optional
+TABLE_ID = os.environ["AIRTABLE_TABLE_ID"]
+VIEW_NAME = os.environ.get("AIRTABLE_VIEW_NAME", "").strip()  # optional
 TOKEN = os.environ["AIRTABLE_TOKEN"]
 
 OUTPUT_CSV = os.environ.get("OUTPUT_CSV", "data/venues_list.csv")
