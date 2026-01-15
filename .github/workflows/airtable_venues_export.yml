@@ -2,8 +2,8 @@ name: Export Airtable Venues to CSV
 
 on:
   schedule:
-    # Runs once per day at 05:00 UTC
-    - cron: "0 5 * * *"
+    # Runs once per day at 05:30 UTC
+    - cron: "30 5 * * *"
 
   # Optional: lets you run it manually from the UI
   workflow_dispatch: {}
