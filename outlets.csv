@@ -1,0 +1,384 @@
+id,outlet_name,outlet_address,outlet_city,outlet_county,outlet_postcode,outlet_country,store_tag,status,active,created_at,custom_fields,Area
+f81cf8a3-2072-47ae-8b6e-b10c8bfd2423,450 Degrees,,,,,GBR,450 Degrees,Active,1,2021-10-11 12:10:01,[],Trader
+5cc83598-04f2-44d1-a688-7ba1c508c5e3,AIG Mastercard Cafe,,,,,GBR,R&A,Active,1,2024-08-15 15:41:22,[],Trader
+d7a00ea3-7466-4863-b1c9-1f3f1bb38f79,All Fired Up,,,,,GBR,All Fired Up,Active,1,2023-03-30 18:00:13,[],Trader
+369d5bce-3546-4e23-a679-6a8eb55bddf0,Amani Kitchen,,,,,GBR,Amani Kitchen,Active,1,2024-03-28 17:45:24,[],Trader
+e3bc98b3-46dc-4b46-877a-1585a9b031d8,Amani Kitchen - OVAL 2024,,,,,GBR,OVAL 2024,Active,1,2024-07-06 19:49:00,[],Trader
+cbbfd7ee-c055-4d3b-afe1-142dbf45cbd8,Anna Mae's,,,,,GBR,Anna Mae's,Active,1,2021-10-04 15:57:10,[],Trader
+3a9cc504-15fb-4f45-8582-51313cf762cc,BBQ Dept,,,,,GBR,BBQ Dept,Active,1,2023-06-20 14:30:29,[],Trader
+1b2a2083-c788-4ed4-8d35-3209b4a9d07a,BBQ Dept - The Oval,,,,,GBR,BBQ Dept - The Oval,Active,1,2024-04-22 13:29:38,[],Trader
+2243b000-1cf2-407a-ab5c-738871d5add4,Baba Dhaba,,,,,GBR,Baba Dhaba,Active,1,2022-05-31 11:12:11,[],Trader
+b6d7c70c-b3ee-4d99-a806-bd516b7d2739,Baba Dhaba - NT 21,"UPPER GROUND, SOUTH BANK",LONDON,,SE1 9PX,GBR,Baba Dhaba - NT 21,Active,1,2021-04-12 21:58:04,[],Trader
+56d7a488-69e6-4572-9735-762de186832e,Baba Dhaba - The Oval,,,,,GBR,Baba Dhaba - The Oval,Active,1,2024-05-29 12:34:11,[],Trader
+d13ea24a-06b2-450a-8454-e661556098c2,Baba Dhaba - The Oval,,,,,GBR,Baba Dhaba - The Oval,Inactive,0,2021-08-13 14:07:07,[],Trader
+84a171c3-f3e1-467f-9caf-e1465775e395,Badboy Wings,,,,,GBR,Babdboy Wings,Active,1,2023-03-30 18:16:35,[],Trader
+a13539c9-5286-4cdb-a871-9ef161c7e6d2,Baggio Burger,,,,,GBR,Baggio Burger,Active,1,2022-09-27 13:42:23,[],Trader
+d239438a-9497-40d7-acd8-dae64406ae8f,Bait,,,,,GBR,Bait,Active,1,2024-03-28 17:36:46,[],Trader
+d0e47e11-07a8-4ec3-a651-aec095c7a2d2,Baked Bird,,,,,GBR,Baked Bird,Active,1,2022-03-14 18:54:12,[],Trader
+6a323331-8493-4a5c-8dac-0854d0d45784,Baked Bird - The Oval,,,,,GBR,Baked Bird - The Oval,Active,1,2023-05-24 08:36:11,[],Trader
+9cc2a9f0-9c39-4456-a376-ddb04e54db47,Bare Bones Churros,,,,,GBR,Bare Bones Churros,Active,1,2023-07-31 11:59:44,[],Trader
+788fa62f-b136-46f6-a8ec-45b2f92a54b2,Bare Bones Pizza,,,,,GBR,Bare Bones Pizza,Active,1,2023-02-28 14:00:30,[],Trader
+3ac2b1b8-bd42-4aa3-9b31-8a6c9c8132bb,Barney & The Pizza,,,,,GBR,Barney & The Pizza,Active,1,2022-04-07 08:42:06,[],Trader
+174b9c13-446e-45f9-b4e4-beeeedff07f0,Barney's Pizza - DREAMLAND,"49-51, Marine Terrace",Margate,,CT9 1XJ,GBR,Barney's Pizza - DREAMLAND,Active,1,2024-03-27 12:55:00,[],Trader
+579659b4-ca44-4728-8c22-df2aa4ea76aa,Bask Street Boys,,,,,GBR,Bask Street Boys,Active,1,2025-07-05 06:52:31,[],Trader
+97ff77c1-f943-47fb-9919-77bf64c7613e,Beyroots,,,,,GBR,Beyroots,Active,1,2022-12-06 15:24:50,[],Trader
+8598398a-8415-45cf-b58c-9ab065eca96a,Beyroots - The Oval 23,,,,,GBR,Beyroots - The Oval 23,Active,1,2023-05-24 08:35:20,[],Trader
+e5656196-0e47-4e24-acc2-2570f45af62c,Bian Dang,,,,,GBR,Bian Dang,Active,1,2021-10-11 11:38:56,[],Trader
+58b4a3a6-1770-4d42-83f5-ca41e77d7e67,Bian Dang - NT 21,"Upper Ground, South Bank",London,,SE1 9PX,GBR,Bian Dang - NT 21,Active,1,2021-04-12 21:58:04,[],Trader
+204f8836-fc86-4a1e-8295-60c59bc53aae,Bian Dang - OVAL 2024,,,,,GBR,Bian Dang - OVAL 2024,Active,1,2024-04-22 13:30:37,[],Trader
+28aa0d33-a57e-4d99-851b-1cfbae19c7d6,Big Kid KEW 2023,,,,,GBR,Big Kid KEW 2023,Active,1,2023-10-22 18:16:45,[],Trader
+4079a340-03bf-417e-aed0-440dd91128c5,Big Shot - DREAMLAND,"49-51, Marine Terrace",Margate,Kent,CT9 1XJ,GBR,Big Shot - DREAMLAND,Active,1,2023-12-11 11:41:26,[],Trader
+3f7b400b-609c-4848-bf3f-ecb09548fac9,Billys Chips,,,,,GBR,Billys Chips,Active,1,2022-08-10 13:04:15,[],Trader
+a581a17b-1a85-4517-be02-574c6c2c1503,Birchwood Pizza,,,,,GBR,Manchester,Active,1,2024-08-06 13:39:24,[],Trader
+19404564-98e8-44ed-9def-f4d41361a43d,Bonnie Burrito,,,,,GBR,AIG24,Active,1,2024-08-15 08:42:50,[],Trader
+a7e23409-7ded-4780-bc88-b6dfe851f512,Born & Raised,,,,,GBR,Born & Raised,Active,1,2023-08-09 11:44:45,[],Trader
+4a1cdcf6-a836-4e29-bc77-bf7e90d9af01,Bournville Waffle Company,,,,,GBR,Bournville Waffle Company,Active,1,2023-06-20 14:30:59,[],Trader
+2047e905-c32e-4b0c-a44a-9a9cbad8b7d4,Buddha Belly,,,,,GBR,Buddha Belly,Active,1,2023-03-30 18:14:20,[],Trader
+5103e934-b87a-49d6-82a2-cec4a762ac10,Burger and Beyond,,,,,GBR,Burger and Beyond,Active,1,2025-10-06 12:08:12,[],Trader
+1a3d4022-a53b-4a48-8166-9b0ba9af5187,Burgervore,,,,,GBR,Burgervore,Active,1,2025-06-24 11:38:58,[],Trader
+17d2b613-93e0-4e1a-9fc7-2f766ee182f1,Burgervore - The Oval,,,,,GBR,Burgervore - The Oval,Active,1,2025-05-22 11:15:58,[],Trader
+9b4fa867-1403-43d6-b361-83f5f59ca517,CP Streetfood,,,,,GBR,CP Streetfood,Active,1,2022-10-11 11:47:36,[],Trader
+765f764c-a431-4a9f-abbf-c633d7767446,Calabria Pizza,,,,,GBR,Calabria Pizza,Active,1,2022-12-07 12:37:55,[],Trader
+23b8e602-3704-4775-982d-6583ece7a92d,Calamari Canteen,,,,,GBR,Calamari Canteen,Active,1,2024-03-11 10:26:19,[],Trader
+daf061bf-6e67-4d90-b6e0-b07d6fe7e399,Cally Munchy,,,,,GBR,Cally Munchy,Active,1,2021-08-13 11:18:34,[],Trader
+5881e28c-0f09-4017-8d40-8310faceeb99,Charlies fried chicken,,,,,GBR,Charlies fried chicken,Active,1,2025-09-05 19:11:31,[],Trader
+c2bf5c12-229d-4454-8204-9062796da851,Chatty Patty,,,,,GBR,Chatty Patty,Active,1,2023-06-12 21:59:16,[],Trader
+0e38f2d0-8658-4147-a105-ccc3f30ba6e5,Cheeky Burger,,,,,GBR,Cheeky Burger,Active,1,2025-04-10 14:47:02,[],Trader
+91e3942a-9361-4bfa-8d43-d3a19e16f1ba,Cheeky Maharaja,,,,,GBR,Cheeky Maharaja,Active,1,2022-06-08 17:17:26,[],Trader
+26433252-0fef-4b2e-bb93-4fa25ef95a35,Chick N Sours,,,,,GBR,Chick N Sours,Active,1,2022-02-09 14:53:48,[],Trader
+1f31b6ec-d33d-4795-8ce7-4573f402ae28,Chick N Sours CHE2025,,,,,GBR,Chick N Sours CHE2025,Active,1,2025-03-06 15:12:22,[],Trader
+7a794a85-1b22-4d43-8fc3-6f1549aef11e,Chicken Bandits,,,,,GBR,Chicken Bandits,Active,1,2024-03-19 15:07:54,[],Trader
+d68593d5-d5f5-4253-b01e-f1da3b7da51f,Chicken Bandits - OVAL 2024,,,,,GBR,Chicken Bandits - OVAL 2024,Active,1,2024-04-22 13:26:55,[],Trader
+9707be24-f60c-4773-81d0-46297d09e3f3,Chill Gelato,,,,,GBR,Chill Gelato,Active,1,2023-08-22 13:22:47,[],Trader
+c5a45dc8-0f90-4c98-b972-7cd64ea57f09,Chill Gelato,,,,,GBR,,Active,1,2024-03-31 16:23:14,[],Trader
+9337a399-30cc-48fc-9cca-ed628f1881ae,Chocolate Dino Company,36 Kennington Road,London,UK,SE1 7BL,GBR,Chocolate Dino,Active,1,2022-07-01 15:32:13,[],Trader
+394c2c9c-be02-40a8-a1a8-9f7b43b17be6,Chocolate Dino Company - KEW GARDENS 22,,,,,GBR,Chocolate Dino Company - KEW GARDENS 22,Active,1,2022-11-01 17:10:39,[],Trader
+dba5a88f-526e-45ec-9aa8-34efd70d9d65,Chubby Dumpling,,,,,GBR,Chubby Dumpling,Active,1,2021-08-10 13:59:06,[],Trader
+5a2613e3-76ee-4f55-a458-abbb8c9fe8b0,Chubby Dumpling - PI Live,,,,,GBR,Chubby Dumpling,Inactive,0,2021-06-29 11:15:11,[],Trader
+ca55a34f-54ab-4726-ae92-19767f07ac49,Cluck,,,,,GBR,Cluck,Active,1,2021-10-05 14:25:08,[],Trader
+eca3d561-8c52-4de5-bb65-f53b41bd531b,Cluck - KEW GARDENS 22,,,,,GBR,Cluck - KEW GARDENS 22,Active,1,2022-11-01 16:58:34,[],Trader
+760120b9-38ab-4a4e-bd51-e0be651f4532,Cluck - The Oval,,,,,GBR,Cluck - The Oval,Active,1,2023-05-24 08:39:53,[],Trader
+760b193e-624c-4624-83b2-3e22ed6bcf1e,Cluck - The Oval,,,,,GBR,Cluck - The Oval,Inactive,0,2021-06-10 11:04:26,[],Trader
+0fb7ee77-6bdc-4ecd-b686-b4844c5bae21,Colombo Street,,,,,GBR,Colombo Street,Active,1,2022-04-26 15:30:04,[],Trader
+9753948b-0f08-43e9-bdde-d2f0ee4f6360,Cookie Mumsters,,,,,GBR,Cookie Mumsters,Active,1,2024-07-24 09:13:48,[],Trader
+4f3dfaa4-32c2-456f-bc96-2c13ddf7d0f2,Crêpes à La Carte,,,,,GBR,Crêpes à La Carte,Active,1,2022-05-30 14:15:30,[],Trader
+b8d84beb-86f5-4146-903e-717050f675dd,Curry On Naanstop,,,,,GBR,Curry On Naanstop,Active,1,2022-05-19 13:55:44,[],Trader
+04f7210f-a266-4518-a706-f29c1e2137fd,Curry On Naanstop - The Oval,,,,,GBR,Curry On Naanstop - The Oval,Active,1,2024-04-22 13:28:45,[],Trader
+0c02ff2d-0332-41bd-b7e0-7c31ecb25e66,DOG N' BON (Scotland),,,,,GBR,DOG N' BON (Scotland),Active,1,2022-09-01 09:08:39,[],Trader
+a04b35c0-1cd8-4321-bd8c-e3d6f5fd5559,Da Ja,,,,,GBR,Da Ja,Active,1,2022-11-15 11:55:39,[],Trader
+6abbe6b0-7bff-4bab-a2d9-d1597480b41d,Daily Grind,,,,,GBR,Daily Grind,Active,1,2023-06-19 17:12:24,[],Trader
+01d2cc02-cd57-40cf-90b4-012657935d19,Dang Good Pizza,,,,,GBR,Dang Good Pizza,Inactive,0,2023-06-14 07:14:32,[],Trader
+5b43f87c-5b9a-4ab9-ab06-c9a91206d01a,Dang Good Pizza,,,,,GBR,Dang Good Pizza,Active,1,2023-06-28 16:06:48,[],Trader
+80d1a735-4290-49fd-bbb9-5630c909b443,De Boeuf,,,,,GBR,De Boeuf,Active,1,2024-07-24 09:13:27,[],Trader
+27656e6c-041b-4c89-bfa0-91832babdffb,Deathrow Sandwich,,,,,GBR,Deathrow Sandwich,Active,1,2025-09-11 16:46:15,[],Trader
+c9cc6240-8e18-4488-ab1f-38ea0a8b9dcd,Deeney's - Events,,,,,GBR,Deeney's,Active,1,2022-07-05 12:29:21,[],Trader
+24eaf215-6387-42b7-937f-12687c35fa7a,Deeny's - KEW GARDENS,"Royal Botanic Gardens, Kew Richmond",London,,TW9 3AE,GBR,Deeny's - KEW GARDENS,Active,1,2021-11-11 16:06:57,[],Trader
+d9dfd7c1-7ddb-4844-892e-3879738128cb,Deluxe Dogs,,,,,GBR,Deluxe Dogs,Active,1,2021-09-16 09:24:59,[],Trader
+d8480fc5-4d10-4fb2-a00b-0b26aedf8213,Deluxe Dogs - KEW GARDENS 23,"Royal Botanic Gardens, Kew, Richmond",London,,TW9 3AE,GBR,Deluxe Dogs - KEW GARDENS 22,Active,1,2021-11-11 11:20:12,[],Trader
+209d1dad-487c-4f33-84c4-4b0498dc6c54,Destination Burger,,,,,GBR,Destination Burger,Active,1,2023-02-23 15:29:48,[],Trader
+7568d4d9-0c84-471d-bea2-39d50a31562c,Destination Burger - The Oval,,,,,GBR,Destination Burger - The Oval,Active,1,2023-05-24 09:34:45,[],Trader
+4f60896e-b099-4856-9950-78f515dd0698,Don Guero (Scotland),,,,,GBR,Don Guero (Scotland),Active,1,2022-08-02 10:35:50,[],Trader
+ad8d88cb-d438-4a07-b849-1738cc58be1d,Eat Lah,,,,,GBR,Eat Lah,Active,1,2022-07-05 14:26:23,[],Trader
+2bbfbdef-befc-4194-8552-41170c272538,Eat New York,,,,,GBR,Manchester,Active,1,2024-08-06 13:38:41,[],Trader
+7b3f4d3d-7674-484c-9e9a-0696703fddaa,El Pollote,,,,,GBR,El Pollote,Active,1,2022-07-20 09:43:02,[],Trader
+b56a5332-165b-4280-9682-2d13a6965dca,Emerald Eats,,,,,GBR,Emerald Eats,Active,1,2025-03-27 17:05:54,[],Trader
+5a03d652-2305-4f5e-b9f7-063905bdf1a0,Emerald Eats - The Oval,,,,,GBR,Emerald Eats - The Oval,Active,1,2025-05-22 11:17:02,[],Trader
+34f2d517-5331-4ae4-b425-ecc7580a7fc7,Enak,,,,,GBR,Enak,Active,1,2023-03-09 13:39:59,[],Trader
+fcb84e5e-9ac9-4360-8dc5-d4f9a9bf0764,Engine - Newbury,,,,,GBR,Engine - Newbury,Inactive,0,2021-08-10 14:13:00,[],Trader
+6755ed9b-5c35-40f7-ac75-5b75c9ae4c1c,Engine Hot Dogs,,,,,GBR,Engine Hot Dogs,Active,1,2021-10-04 16:02:39,[],Trader
+9de43a31-ef8d-40c1-9c98-20f83208ccb4,Fat Snags,,,,,GBR,Fat Snags,Active,1,2025-12-30 15:26:03,[],Trader
+4387dad2-9c64-45a8-ba76-4f5ba6e01eb1,Faté,,,,,GBR,Fate,Active,1,2024-03-31 15:29:52,[],Trader
+4a76a3ca-4bbd-485c-a667-d1dd679679f5,Faté - DREAMLAND,"49-51, Marine Terrace",Margate,Kent,CT9 1XJ,GBR,Faté - DREAMLAND,Active,1,2023-12-11 11:40:35,[],Trader
+4ae7e6df-e6c7-4c30-aa6c-484cefb43c7d,Feed The Village - The Oval 23,,,,,GBR,Feed The Village - The Oval 23,Active,1,2023-05-24 09:43:00,[],Trader
+5db20454-fcb1-4e39-9624-a1655c2c0368,Feed the Village,,,,,GBR,Feed the Village,Active,1,2023-04-07 07:32:36,[],Trader
+8a539b92-61f0-425b-9841-3453feafc4dc,Filili,,,,,GBR,Filili,Active,1,2023-04-12 11:16:18,[],Trader
+cae6cfe5-b583-4bd4-9f00-f2aaaf64fc87,Fish & Frites - AIGWO,,,,,GBR,AIG24,Active,1,2024-08-09 08:24:14,[],Trader
+2e2ff66d-b1ef-43c2-b6ce-7ba18302e2a4,Flying Cow,,,,,GBR,Flying Cow,Active,1,2021-05-20 16:24:25,[],Trader
+f6471bf4-0ca8-43b9-aacd-31d5490d1261,Flying Cow - The Oval,,,,,GBR,Flying Cow - The Oval,Active,1,2024-04-22 13:30:20,[],Trader
+e0e56b14-67b4-4202-8de3-e4a547c500ec,Fotheringhams,,,,,GBR,AIG24,Active,1,2024-08-14 15:24:35,[],Trader
+1327aa75-069e-47a3-bcba-5504aed6a78b,Fundi,,,,,GBR,Fundi,Active,1,2021-06-21 08:59:57,[],Trader
+a5273069-cb5b-4752-b9cf-fa5e4b74fbcd,Gamekeeper,,,,,GBR,Gamekeeper,Active,1,2022-03-11 15:36:29,[],Trader
+067ae04a-c944-4ca4-82f4-9987ab2028f1,Gamekeeper - HCP,,,,,GBR,Gamekeeper HCP,Active,1,2022-11-17 13:16:59,[],Trader
+2c20a992-42ff-4540-8962-fc46a4fb32c8,Good Food Cartel,45 Craven Street,Coventry,,Cv5 8ds,GBR,Good Food Cartel,Active,1,2022-01-05 17:06:54,[],Trader
+4cf43d7a-e274-4c58-b849-ce4bc1802cb7,Grind,,,,,GBR,Grind,Active,1,2024-06-16 08:10:56,[],Trader
+b4320606-b3b7-4b0e-81e0-6b4ca5d908c8,Grubshed,,,,,GBR,Grubshed,Active,1,2022-06-08 17:55:42,[],Trader
+d2c10a8b-7500-4e90-b706-49d7474b0f42,Grubshed - The Oval,,,,,GBR,Grubshed - The Oval,Active,1,2025-08-08 15:48:59,[],Trader
+48b3a689-2d1d-4ec0-af24-c501678815c4,Gully,,,,,GBR,Gully,Active,1,2022-05-09 17:10:20,[],Trader
+135d1f0f-2c69-4a41-a3e1-1ac25de11b5d,Gully - The Oval,,,,,GBR,Gully - The Oval,Active,1,2023-06-05 10:37:21,[],Trader
+2afe1d59-8f64-47a8-8534-b3d13b2dff91,Gyro Guys,,,,,GBR,,Inactive,0,2021-05-20 16:24:24,[],Trader
+3e5d5468-85a3-4e2d-9914-b70d038ac01e,HANOI CA PHE - OVAL 2024,,,,,GBR,OVAL 2024,Active,1,2024-07-04 11:06:38,[],Trader
+01d91c98-3855-4e58-94b7-281c95e71a65,HG - Battersea,,,,,GBR,HG BAT,Active,1,2024-06-28 20:49:46,[],Trader
+10e1e8b5-bbdd-457c-ac45-c652de39d80e,HG - Hampton Court,,,,,GBR,HG HAMPTON,Active,1,2023-06-28 16:03:47,[],Trader
+8f86c185-0725-4843-b2c9-2dd8eb2f0198,HG - Warehouse,,,,,GBR,HG WAREHOUSE,Active,1,2024-06-28 20:53:07,[],Trader
+76471ad1-b767-408b-8366-247f6a411af9,HG _ SHOREDITCH GARDENS,,,,,GBR,HG - SG,Active,1,2024-06-28 20:50:14,[],Trader
+93a4775a-62a0-4b81-9f07-80a0abc9f1d6,HSBC Ice Cream,,,,,GBR,R&A,Active,1,2024-08-19 09:28:17,[],Trader
+7df4278c-dd1d-43b5-979f-498177084a3f,Halloumi Bite - HCP,"Unit B, r/o 312 Ewell road",Surbiton,Surrey,KT6 7AL,GBR,Halloumi Bite - HCP,Active,1,2022-11-17 13:29:53,[],Trader
+4d04f8f7-9a8c-4c62-8f09-7410b44dc1d2,Hanks - KEW GARDENS,"Royal Botanic Gardens, Kew, Richmond",London,,TW9 3AE,GBR,Hanks - KEW GARDENS,Active,1,2021-11-12 15:49:52,[],Trader
+2fbffcb7-2f3d-4750-8147-9e561a91a707,Hanoi Kitchen,,,,,GBR,Hanoi Kitchen,Active,1,2023-04-07 07:32:19,[],Trader
+3e09006f-e6fd-4869-9158-f161496acb90,Harissa & Lemon,,,,,GBR,Harissa & Lemon,Active,1,2024-03-31 16:23:37,[],Trader
+190a42b9-e494-439d-8b55-2fb8b1fe4217,Harissa & Lemon - OVAL 2024,,,,,GBR,OVAL 2024,Active,1,2024-05-29 12:33:18,[],Trader
+d859a827-49db-4fb4-a69a-340df1577d48,Hash Hut,,,,,GBR,Hash Hut,Active,1,2022-07-01 11:28:05,[],Trader
+5def8c10-8b6d-4d46-95cd-c6969b821251,Hash Hut - KEW GARDENS 23,,,,,GBR,Hash Hut - KEW GARDENS 22,Active,1,2022-11-01 16:55:56,[],Trader
+0e595d77-54e6-471b-9dc2-1e41793feafb,Hash Hut - Oval 2024,,,,,GBR,OVAL 2024,Active,1,2023-05-24 08:37:26,[],Trader
+42634c7a-07eb-4fe5-982a-d26fb706e0b1,Hash Hut Events,,,,,GBR,,Inactive,0,2023-09-13 20:47:46,[],Trader
+89c9a142-b097-4543-a6db-8121d2be3f4b,Hector & Harriet,,,,,GBR,AIG24,Active,1,2024-08-15 10:12:54,[],Trader
+e095f03e-e4eb-48e6-a9c3-cee2068a0dd6,Hot Rocket,,,,,GBR,Hot Rocket,Active,1,2023-10-06 12:11:02,[],Trader
+d395b4ce-1ec7-42e6-989c-69b86cb70507,It's All Gravy,,,,,GBR,Its All Gravy,Active,1,2023-09-13 20:47:34,[],Trader
+377d0f1f-4d71-40f5-bc2e-dc20e97d0daf,It's All Gravy - OVAL 2024,,,,,GBR,OVAL 2024,Active,1,2024-07-08 14:58:31,[],Trader
+6d07881f-ada7-4502-b816-0b599b2d944e,Jamon Jamon,,,,,GBR,Jamon Jamon,Active,1,2021-07-20 13:32:47,[],Trader
+ef8e8460-c501-4b89-b6f9-485d986538d4,Jollof Mama,,,,,GBR,Jollof Mama,Active,1,2021-06-29 11:14:55,[],Trader
+be2ebde5-e154-4dfa-9f8f-4b6b1522a3d4,Jump Coffee,,,,,GBR,,Active,1,2024-05-24 07:22:49,[],Trader
+b13d8c99-8009-4abd-8010-37fbc65340e9,KERB Cloakroom,,,,,GBR,Cloakroom,Active,1,2024-06-17 15:40:47,[],Trader
+e24ef059-4ae3-4185-a73a-ac7a944445c2,KERB Training,,,,,GBR,,Active,1,2024-06-10 10:31:48,[],Trader
+70561e2f-9717-47a6-ab29-42ba94be2280,Kalimera,,,,,GBR,Kalimera,Active,1,2021-10-13 10:11:33,[],Trader
+2c625f04-2ca1-4d91-a49f-bac745db763a,Kalimera - GAY TIMES,,,,,GBR,Kalimera,Inactive,0,2021-08-06 08:27:54,[],Trader
+3933589a-d8ad-4502-b1fd-2baaf772e5e5,Kebab Cartel,,,,,GBR,Kebab Cartel,Active,1,2023-01-27 12:57:40,[],Trader
+68962e32-f400-4c51-8260-b2594b9d41a9,Kolkati,,,,,GBR,Kolkati,Active,1,2021-06-08 22:13:54,[],Trader
+be3320fa-6f39-478e-9f53-b53906d00bd8,Kolkati - KEW GARDENS,"Royal Botanic Gardens, Kew, Richmond",London,,TW9 3AE,GBR,Kolkati - KEW GARDENS,Active,1,2021-11-10 16:42:48,[],Trader
+401771fc-0bf4-4691-84dc-87ff1b5208ac,Komex Kitchen,,,,,GBR,Komex Kitchen,Active,1,2021-09-16 11:44:52,[],Trader
+6e0abac5-1292-4d6c-9d88-21705e72cc2a,La Churreria - KEW GARDENS,"Royal Botanic Gardens, Kew Richmond",London,,TW9 3AE,GBR,La Churreria - KEW GARDENS,Active,1,2021-11-11 11:28:08,[],Trader
+e5b388d2-29a0-4b5f-a328-130dc54fd020,Le Chalet,,,,,GBR,Le Chalet - KEW GARDENS,Active,1,2024-10-03 16:15:48,[],Trader
+536abae6-6f52-432d-af66-dd9759089c28,Lets Eat Group,,,,,GBR,AIG24,Active,1,2024-08-14 15:36:12,[],Trader
+5c626966-4604-49a4-b067-120020a04549,Let’s eat group 2,,,,,GBR,AIG24,Active,1,2024-08-22 07:05:36,[],Trader
+8ae26799-d7b1-48bd-8719-56fb2fe7b00c,Libertine Burger,,,,,GBR,Libertine Burger,Active,1,2022-12-07 12:38:19,[],Trader
+a22cf59b-2230-4ec3-8b6d-14931dcb76ca,Lil Watan,,,,,GBR,Lil Watan,Active,1,2022-03-11 11:27:27,[],Trader
+1eaa08cc-0cd4-4db1-af52-a122b4aadbbc,Lil Watan - The Oval,,,,,GBR,Lil Watan - The Oval,Active,1,2023-05-24 09:41:21,[],Trader
+4ad6dd52-5ac9-4b5d-bad5-90daad879441,Lil Watan CHE2025,,,,,GBR,Lil Watan CHE2025,Active,1,2025-03-06 15:11:21,[],Trader
+21985345-c683-4461-927a-11686ff786a5,Lil Watan Kew 2023,,,,,GBR,Lil Watan Kew 2023,Active,1,2023-10-22 18:18:28,[],Trader
+c739b267-43c6-4719-9474-9be3df607fd8,Little Pudding,,,,,GBR,Little Pudding,Active,1,2024-08-14 09:09:27,[],Trader
+a916f032-8658-44d3-a288-5374fa721218,Little Spoon,,,,,GBR,Little Spoon,Active,1,2024-08-21 08:57:37,[],Trader
+113ed3e2-1d8a-4dec-be8b-301848b23b9f,Lockdown Bakehouse,,,,,GBR,Lockdown Bakehouse,Active,1,2024-03-29 12:00:27,[],Trader
+4f3ff836-239d-4b74-b466-04f3121f109f,Lola's Fish and Chips,,,,,GBR,Lola's Fish and Chips,Active,1,2025-06-06 11:43:31,[],Trader
+73a143d3-2199-44a7-8872-f7a3cb781112,Lords of Poke,"Upper Ground, South Bank",London,,SE1 9PX,GBR,Lords of Poke,Inactive,0,2021-04-12 21:58:04,[],Trader
+c9a9ebba-c146-4acd-a76d-ee2ca7eac9bc,Los Gordos,,,,,GBR,Los Gordos,Active,1,2023-03-30 18:16:03,[],Trader
+1f5bc54c-0d4f-4852-852e-26096b4bfd7a,Los Gordos (Oval),,,,,GBR,Los Gordos (Oval),Active,1,2025-06-09 15:11:19,[],Trader
+75a638ec-4ff8-4634-b563-8fd22364f75d,Luckys,"Upper Ground, South Bank",London,,SE1 9PX,GBR,Luckys,Active,1,2021-04-12 21:58:04,[],Trader
+8f79cc86-ceea-4793-8698-369e8d307b24,Luckys Hot Chicken - The Oval,,,,,GBR,Luckys Hot Chicken - The Oval,Active,1,2025-05-22 11:20:33,[],Trader
+c33948b3-152d-4401-b586-4b86f125d302,MAIN OUTLET,Clere House 3 Chapel Place,London,,EC2A 3DQ,GBR,Main Outlet,Active,1,2021-04-01 17:25:16,[],Trader
+20a34064-531d-44ab-918e-c491941d994b,Makatcha,,,,,GBR,Makatcha,Active,1,2021-10-13 10:27:32,[],Trader
+436a6634-41bd-4ca3-92db-7c8199b0b345,Mandala,,,,,GBR,Mandala,Active,1,2023-11-02 16:45:33,[],Trader
+a2b501a3-3d37-4e68-8ae2-e89150f7915b,Mandala - KEW GARDENS 22,,,,,GBR,KEW GARDENS 22,Inactive,0,2022-11-01 17:09:34,[],Trader
+e54bd3df-405a-4a37-a3bc-455196f68cdf,Mandala - KEW GARDENS 22,,,,,GBR,Mandala - KEW GARDENS 22,Active,1,2022-11-01 16:59:09,[],Trader
+f557170b-8b6c-47d5-99aa-4bcf218224fd,Masa Tacos,,,,,GBR,Masa Tacos,Active,1,2023-09-11 08:42:45,[],Trader
+2ec746b1-9979-4eda-8e5f-6065c6a28b67,Masa Tacos - OVAL 2024,,,,,GBR,Masa Tacos - OVAL 2024,Active,1,2024-04-22 13:28:03,[],Trader
+1d6ba614-7ca1-4263-a451-e3962ed0c757,Mash Hut Che 2025,,,,,GBR,MASH CHE 2025,Active,1,2025-03-06 15:09:28,[],Trader
+c4933c85-effe-466d-93c1-db4ab3e8cc7b,Meat Meets Bun,,,,,GBR,Meat Meets Bun,Active,1,2022-09-05 11:49:34,[],Trader
+18702b45-0b7d-4a22-a662-c466c6ac6a02,Meltdown Cheeseburgers - OVAL 2024,,,,,GBR,Meltdown - OVAL 2024,Active,1,2024-05-29 12:32:36,[],Trader
+42c465ef-73fa-4bea-b1e1-ef36d085b48a,Mentmore Coffee,,,,,GBR,Mentmore Coffee,Active,1,2024-08-12 09:46:53,[],Trader
+d7e9133c-0b85-4db2-b4f0-8f579d5b8a8d,MexClub,,,,,GBR,MexClub,Active,1,2024-03-28 21:53:22,[],Trader
+c5cb0e9d-e838-40cc-9766-4167c20d1b98,Mexican Fried Chicken,,,,,GBR,Mexican Fried Chicken,Active,1,2021-09-02 12:09:46,[],Trader
+8639ff8d-6166-4349-9c01-85acb047f6f7,Mexican Seoul,,,,,GBR,Mexican Seoul,Active,1,2021-10-05 14:30:30,[],Trader
+04dcef56-9f71-4d09-a866-6ac06a50514d,Milktree,"Upper Ground, South Bank",London,,SE1 9PX,GBR,Milktree,Active,1,2021-04-12 21:58:04,[],Trader
+27dd4881-c44f-441f-ab5a-53a1939d97b3,Mother Flipper,,,,,GBR,Mother Flipper,Active,1,2021-07-30 11:29:11,[],Trader
+39a54086-5baf-43fb-9b0c-b97ac157e5e7,Mother Flipper - KEW GARDENS,"Royal Botanic Gardens, Kew Richmond",London,,TW9 3AE,GBR,Mother Flipper - KEW GARDENS,Inactive,0,2021-11-12 16:01:50,[],Trader
+5000b95c-2ed6-460b-b2b2-4f0ce900a2a1,Mother Flipper - NFL,,,,,GBR,Mother Flipper - NFL,Inactive,0,2021-10-05 14:01:57,[],Trader
+60ef6846-469f-4c15-aab6-1a2f0d689e71,Mr Porchetta,,,,,GBR,Mr Porchetta,Active,1,2025-03-06 15:08:50,[],Trader
+e4eb0348-da46-47af-b0ee-34c617f5e4f2,Mr Whippy - Andreas,,,,,GBR,Mr Whippy,Active,1,2023-08-04 14:45:14,[],Trader
+6b091c7f-2302-4db0-bf69-6aa1c1a05d3d,Mumbai Mix,,,,,GBR,Mumbai Mix,Active,1,2022-06-14 11:53:27,[],Trader
+cbc9f1fd-db81-4d57-bc85-daeecd849e98,My Pie Kew 2023,,,,,GBR,My Pie Kew 2023,Active,1,2023-10-22 18:18:38,[],Trader
+1178c518-5540-4626-857c-53bc87d6e400,MyPie,,,,,GBR,MyPie,Active,1,2023-06-28 16:09:08,[],Trader
+b6c87bb7-dead-47e3-99ea-70a8830376ba,Mypie,,,,,GBR,Mypie,Inactive,0,2023-06-14 07:14:47,[],Trader
+06a240e6-0d71-477a-95e0-473d2e1a764a,Nanny Bills,,,,,GBR,Nanny Bills,Active,1,2024-06-03 16:16:58,[],Trader
+a9714a44-15c9-4393-a01d-bd6283f99d79,Nanny Bills - The Oval,,,,,GBR,Nanny Bills - The Oval,Active,1,2024-09-02 17:15:56,[],Trader
+82fe3bb1-7605-4b73-84ee-f4c21de49424,Nazari,,,,,GBR,Nazari,Active,1,2021-06-08 22:13:54,[],Trader
+25259812-4953-4768-a8aa-c69bb8cd7aca,Nazari - Goodwood Qatar,,,,,GBR,Nazari - Goodwood Qatar,Inactive,0,2021-07-20 15:21:52,[],Trader
+26924232-8192-4d7d-a564-1dad32913f0f,Nazari - NT 21,Upper Ground,Southbank,,SE1 9PX,GBR,Nazari - NT 21,Active,1,2021-08-05 08:45:00,[],Trader
+a77cde45-b5ee-4fd9-8744-d6c0aca0147e,Nazari - PGA,,,,,GBR,Nazari - PGA,Inactive,0,2021-09-02 14:25:03,[],Trader
+b1f9eca4-b763-4827-a27f-2ca2aa6ebcd3,Nazari - The Oval 23,,,,,GBR,Nazari - The Oval 23,Active,1,2023-05-24 09:31:15,[],Trader
+9acd0fa2-7a73-4bd1-80a0-fa6ed6d50993,Notty Bites,,,,,GBR,Notty Bites,Active,1,2024-05-18 11:19:11,[],Trader
+89f04457-9395-4e9d-821c-c20f65c3bfd6,Nugs,,,,,GBR,Nugs,Active,1,2025-07-08 10:24:29,[],Trader
+310e1c95-97f6-4a77-8311-e99cb2c1f52a,Off Beat BBQ - EVENTS,,,,,GBR,Off Beat BBQ,Active,1,2021-09-02 14:45:03,[],Trader
+b2abb87c-7974-4c25-80f7-475b1cba812f,Off Beat BBQ - Qatar,,,,,GBR,Off Beat BBQ - Qatar,Inactive,0,2021-07-20 15:44:04,[],Trader
+33aa4137-8dbd-4c21-b0a8-4fd3ea4723b3,Off Beat BBQ - The Oval,,,,,GBR,Off Beat BBQ - The Oval,Active,1,2021-08-06 09:04:02,[],Trader
+0409a44f-e104-4299-9202-ce21b9b451bd,Oh My Dog - Chelsea,,,,,GBR,Oh My Dog - Chelsea,Inactive,0,2021-05-13 23:37:45,[],Trader
+d2235110-f3f5-4902-98c4-054a4b6468eb,Oh My Dog - Events,,,,,GBR,Oh My Dog,Active,1,2021-10-04 16:07:52,[],Trader
+6fe71eba-64fd-4ffb-8d65-3d9ebc38af5d,Oh My Dog - Oval 1 Ales Stewart - OVAL 2024,,,,,GBR,OVAL 2024,Active,1,2022-05-26 11:39:42,[],Trader
+17b711bc-c465-4cc2-a609-98bf3cd416f6,Oh My Dog - The Oval,,,,,GBR,Oh My Dog - The Oval,Active,1,2022-05-26 12:04:49,[],Trader
+2f9ac108-7540-4f20-9148-0a85d87a2fed,Oh My Dog - The Oval,,,,,GBR,Oh My Dog - The Oval,Inactive,0,2021-06-08 22:13:53,[],Trader
+95b2a541-d88f-4db6-92a0-ff7d66d5e055,Oishidon,,,,,GBR,Oishidon,Active,1,2023-09-13 20:39:46,[],Trader
+db746b64-9836-487b-bdc5-bc01d3193424,Old News,,,,,GBR,Old News,Active,1,2025-10-04 18:51:29,[],Trader
+46a30f18-2617-462e-8b89-ff5cf2a4406e,Oli Babas - Events,,,,,GBR,Oli Babas,Active,1,2021-06-08 22:13:53,[],Trader
+2581e2d1-40a1-463c-8a3a-b80048c7818f,Oli Babas - KEW GARDENS,"Royal Botanic Gardens, Kew, Richmond",London,,TW9 3AE,GBR,OLI BABAS,Active,1,2021-11-10 15:53:15,[],Trader
+ff8f4acd-8f36-4482-9558-3d078e5d1f7a,Only Jerkin - Kew Gardens,,,,,GBR,Only Jerkin - Kew Gardens,Active,1,2023-10-23 16:46:39,[],Trader
+dad7cd95-34f0-44cf-bbc5-8e86c4fc9801,Only Jerkin' - EVENTS,,,,,GBR,Only Jerkin,Active,1,2021-07-19 11:06:44,[],Trader
+107591d0-bea2-42c0-bd2b-120c83041cfc,Only Jerkin' - HCP,"Royal Botanic Gardens, Kew Richmond",London,,TW9 3AE,GBR,Only Jerkin' - HCP,Active,1,2021-11-11 12:25:31,[],Trader
+fbdc7259-5da2-4cfa-83dc-26f6a099517d,Only Jerkin' - The Oval,,,,,GBR,Only Jerkin' - The Oval,Active,1,2023-05-24 08:35:49,[],Trader
+62e1fe54-a6dc-4e61-bbb2-d1f1b88dc211,Oshpaz - Events,,,,,GBR,Oshpaz,Active,1,2021-06-29 11:13:31,[],Trader
+acca180b-7427-4497-af2d-0596b6525e14,Oshpaz - PI Live,,,,,GBR,Oshpaz,Inactive,0,2021-08-25 07:59:12,[],Trader
+d85108ba-42de-4998-b47e-b49c6bbbe168,Pabellon,,,,,GBR,Pabellon,Active,1,2024-03-31 21:44:32,[],Trader
+2de7aaa9-685e-44b2-97b4-ce5ee34d4fd5,Paddys,,,,,GBR,Paddys,Active,1,2021-08-24 11:35:57,[],Trader
+53cfcdb1-83f8-499b-93d2-992423ca7041,Paddys - PGA,,,,,GBR,Paddys - PGA,Active,1,2021-09-02 09:49:21,[],Trader
+ae4f0d26-4f35-48f8-8062-583d31b3a78f,Philly Philly,,,,,GBR,,Active,1,2025-07-04 08:49:11,[],Trader
+179c0117-a984-4e0f-82d1-31634fbba56a,Philly Philly - The Oval,,,,,GBR,Philly Philly - OVAL,Active,1,2025-07-04 09:46:18,[],Trader
+8583be2c-4f0a-4cfc-8585-44ce73eb2a9b,Pietanics,,,,,GBR,Pietanics,Active,1,2022-05-09 12:46:05,[],Trader
+e05e825f-6d78-4f10-bcab-3367b77121f8,Pinch of Masala,,,,,GBR,,Inactive,0,2021-05-20 16:24:24,[],Trader
+727ad58c-0f62-4f1f-bec9-34792c1a2a87,Poke Nom,,,,,GBR,Poke Nom,Active,1,2025-06-25 09:11:17,[],Trader
+0f007ba8-efee-4741-81a8-6bcd1736ef34,Poor Boys,,,,,GBR,Poor Boys,Active,1,2023-06-09 14:34:12,[],Trader
+90df70ae-b7e5-4c06-a9db-d8e91a8b49dd,Poutine Punks,,,,,GBR,Poutine Punks,Active,1,2022-03-30 11:37:23,[],Trader
+249258ba-80ce-4c55-8977-f4b69b80ffb0,Poutine Punks - Events,,,,,GBR,Poutine Punks,Inactive,0,2022-09-13 14:34:40,[],Trader
+50833d2f-ef5f-45d9-8227-5e56810716aa,Prairie Fire - Events,,,,,GBR,Prairie Fire,Active,1,2021-05-13 23:37:45,[],Trader
+e2c2d5e0-e21e-436e-8dd7-203ed9eeb1fb,Prairie Fire BBQ - NFL,,,,,GBR,Prairie Fire BBQ - NFL,Active,1,2021-10-04 16:11:32,[],Trader
+c0a9b32e-0ae1-418d-b94b-79efa5f04b85,Provisions Coffee - DREAMLAND,"49-51, Marine Terrace",Margate,,CT9 1XJ,GBR,Provisions Coffee - DREAMLAND,Active,1,2024-03-27 11:26:03,[],Trader
+0937c023-83a0-4a36-965c-4d222d24b368,Purbeck Ice Cream,,,,,GBR,Purbeck Ice Cream,Active,1,2023-06-19 17:12:08,[],Trader
+f8fbeb29-6141-4bdd-b61f-50ef9406b8bb,Queen of the Crepes,,,,,GBR,,Active,1,2024-03-31 16:23:00,[],Trader
+e0e2d615-e8aa-4101-9617-58e4d7c85eed,RICE BANDITS - OVAL 2024,,,,,GBR,OVAL 2024,Active,1,2024-07-04 11:05:35,[],Trader
+5e2b8391-c813-42c4-8d7b-8db948e184ab,Rad Burger - DREAMLAND,,,,,GBR,Rad Burger - DREAMLAND,Active,1,2024-03-27 12:31:18,[],Trader
+aff27027-4bba-4047-84c6-793966e39e02,Rainbo,,,,,GBR,Rainbo,Active,1,2024-06-14 14:23:28,[],Trader
+14d345c2-6862-4f28-ae9f-83b65f56a79a,Rendang! Thank You Ma'am,,,,,GBR,Rendang! Thank You Ma'am,Active,1,2022-05-17 16:24:13,[],Trader
+6aa0a053-da9a-4683-90ab-51d00ad17a2d,Rice Bandits,,,,,GBR,Rice Bandits,Active,1,2024-07-23 13:29:02,[],Trader
+26d22e1d-19a6-4aeb-9778-2e85846c1971,RiceOn,,,,,GBR,RiceOn,Active,1,2022-07-01 10:49:49,[],Trader
+a04bfe85-f492-4310-9b9a-3e4b5418dc3c,RockIT - The Oval,,,,,GBR,OVAL,Active,1,2025-07-04 08:48:51,[],Trader
+e824a096-827f-45e7-9767-592b2c504e3c,STAKEHaus,"Upper Ground, South Bank",London,,SE1 9PX,GBR,Steak Haus,Active,1,2021-04-12 21:58:04,[],Trader
+1066865d-f377-420e-b9c0-58bed7d794db,Sando's (Scotland),,,,,GBR,Sando's (Scotland),Active,1,2022-09-21 15:39:41,[],Trader
+7029c6a1-169e-4c7b-9cd5-17ee30701f79,Santa Bifana,,,,,GBR,Santa Bifana,Active,1,2024-03-19 14:03:04,[],Trader
+9ec46cb4-0284-4ee7-91e5-7af8af4c20ba,Sauls of Spratton,,,,,GBR,Sauls of Spratton,Active,1,2023-04-11 10:33:04,[],Trader
+8cbdc6a4-195b-423b-b030-78dbba0cb934,Scandilicious,,,,,GBR,Scandilicious,Active,1,2022-08-22 12:04:31,[],Trader
+eb793750-427e-4480-82cc-1246823faa9e,Scandilious - The Oval,,,,,GBR,Scandilious - The Oval,Active,1,2025-05-22 11:14:06,[],Trader
+e77cd898-8606-418a-943c-304f0721676b,Sea Shanty - DREAMLAND,"49-51, Marine Terrace",Margate,,CT9 1XJ,GBR,Sea Shanty - DREAMLAND,Active,1,2024-03-27 10:47:31,[],Trader
+44fe436e-2398-47f5-b434-1adc12db6565,Sear,,,,,GBR,Sear,Active,1,2025-10-04 18:09:00,[],Trader
+db34331a-13dc-4ae1-8ddb-d5eea5eefdb0,Sear Street Kitchen - Newbury Racecourse,,,,,GBR,Sear Street Kitchen - Newbury Racecourse,Active,1,2021-06-08 08:53:56,[],Trader
+ba11bea7-5bd7-4299-b2a4-3b1bb2c7e9ad,Sen Noods,,,,,GBR,Sen Noods,Active,1,2023-05-24 08:37:04,[],Trader
+833d0b29-714a-45b2-b591-b26a8fef0fa1,Sen Noods - OVAL 2024,,,,,GBR,OVAL 2024,Active,1,2024-04-22 13:28:19,[],Trader
+f99039e8-e8f1-4448-908a-782cb1dc9e37,Small fry,,,,,GBR,Small fry,Active,1,2025-09-05 19:11:57,[],Trader
+ea8587f7-bfbd-4b0d-934a-fb4f7d7e8b0f,Smashing Plates,,,,,GBR,,Active,1,2025-11-12 12:45:41,[],Trader
+a87d3f73-ffef-4ca8-a619-22173f1f6ecf,Smoke & Bones - NHS,,,,,GBR,Smoke & Bones - NHS,Active,1,2021-07-20 13:34:45,[],Trader
+a2ec63d6-d409-4f6b-a3af-8f6955298296,Smoke & Bones - The Oval (Active),,,,,GBR,Smoke & Bones - The Oval (Active),Active,1,2021-06-08 22:13:54,[],Trader
+6d334ca1-aaad-46e2-8350-5d1305ea03a7,Smoke & Bones - The Oval (Inactive),,,,,GBR,Smoke & Bones,Inactive,0,2021-06-29 11:13:51,[],Trader
+4967861d-8bb2-479a-9ded-b2c8f5e3cd3d,Spice Club Road Show,,,,,GBR,Spice Club Road Show,Active,1,2024-06-14 10:47:43,[],Trader
+8a10125e-7eff-4ffe-ae76-aa0979d356ef,Stakehaus - Events,,,,,GBR,Stakehaus,Active,1,2021-10-05 12:20:48,[],Trader
+f0c30636-ac23-4fe3-8de7-800a9b598b63,SteakHaus - The Oval,,,,,GBR,SteakHaus - The Oval,Inactive,0,2021-06-08 22:13:53,[],Trader
+e51a0614-5799-44c4-9ff3-74e5f114b0b5,Street Souvlaki,,,,,GBR,Street Souvlaki,Active,1,2023-03-28 13:00:39,[],Trader
+8a13cd24-d592-4c63-8cb4-38cc4db1235f,Sweet Dee's Jerk,,,,,GBR,Sweet Dee's Jerk,Active,1,2024-08-06 14:24:41,[],Trader
+58432878-61ad-4d22-941d-6a3555d5f457,Sweet Dees Jerk - The Oval,,,,,GBR,Sweet Dees Jerk - The Oval,Active,1,2025-05-22 10:52:56,[],Trader
+75ad1f2c-345b-4cf3-8d2a-a72f58628614,Swirly Whirly - Dreamland,"49-51, Marine Terrace",Margate,Kent,CT9 1XJ,GBR,Swirly Whirly - Dreamland,Active,1,2023-12-11 11:42:16,[],Trader
+82f10a8f-c858-4b3a-a266-444f08b3d01c,TEST,,London,,,GBR,,Inactive,0,2025-09-03 15:07:25,[],Trader
+50652be0-43ec-48aa-965f-29c9e635c701,Taco Bros - The Oval,,,,,GBR,Taco bros - The Oval,Active,1,2025-07-11 13:08:57,[],Trader
+ee6987bc-6bd2-4f02-bdf0-088c990db11b,Tapas Bravas,,,,,GBR,Tapas Bravas,Active,1,2023-06-20 14:33:00,[],Trader
+713b9f6f-09e9-4674-8053-5d8f8f116ee1,The Bowler,,,,,GBR,The Bowler,Active,1,2021-10-05 13:42:58,[],Trader
+b9cff5e4-e411-4249-923b-87f0d0e6803b,The Currywurst,,,,,GBR,,Inactive,0,2021-05-20 16:24:24,[],Trader
+f4896c6b-9683-4393-8ee8-14afc6fcf9a9,The Currywurst,,,,,GBR,The Currywurst,Active,1,2021-11-17 18:22:51,[],Trader
+38c6c766-fb64-47da-9851-a1a7f4267275,The Doghouse (Scotland),,,,,GBR,The Doghouse (Scotland),Active,1,2022-08-01 15:50:56,[],Trader
+5f56d087-8eec-49a0-b5ea-e4632678b70d,The Duck Shed,,,,,GBR,The Duck Shed,Active,1,2023-02-23 15:30:17,[],Trader
+5fe482cd-d846-4c79-9405-e2997d5fbada,The Duck Shed - The Oval,,,,,GBR,The Duck Shed - The Oval,Active,1,2025-05-20 15:40:30,[],Trader
+14008640-3dd5-4c9c-bcf0-19d935dd13e1,The Duck Shed - events,,,,,GBR,The Duck Shed,Inactive,0,2023-07-06 15:11:53,[],Trader
+11c19cc5-61ae-448a-b77d-c14e406aebdc,The English Indian,,,,,GBR,,Inactive,0,2021-05-20 16:24:24,[],Trader
+a989d884-36ae-4266-958a-65623ea9dfe1,The English Indian,,,,,GBR,The English Indian,Active,1,2021-11-17 17:55:45,[],Trader
+ba9d6304-b275-4fc0-a777-a3adabd3a761,The English Indian - TOTTENHAM,,,,,GBR,The English Indian,Active,1,2021-11-17 09:45:41,[],Trader
+2c1901f1-ebfa-4410-8e02-998e1be28ce5,The GRUBSHED - OVAL 2024,,,,,GBR,OVAL 2024,Active,1,2024-07-08 15:10:53,[],Trader
+618bf465-e532-4139-b63c-eddc56d8d9f9,The Goat King,,,,,GBR,The Goat King,Active,1,2023-08-25 13:51:06,[],Trader
+b5a42482-3221-4396-8664-fd3a7ddf6a4d,The Grilling Greek - EVENTS,,,,,GBR,The Grilling Greek,Active,1,2021-06-21 08:58:51,[],Trader
+ba08a49c-8482-4efe-b56d-22b9cc32245c,The Grub Shed,,,,,GBR,,Active,1,2021-05-20 16:24:24,[],Trader
+11e658fa-ca10-4de8-adc8-9395bbe10e8f,The Happy Pot,,,,,GBR,The Happy Pot,Active,1,2025-10-02 14:57:44,[],Trader
+ed29c40d-30ce-4514-a265-0182d05d1094,The Hogless Roast,,,,,GBR,The Hogless Roast,Active,1,2023-06-20 14:36:13,[],Trader
+91bc3786-60c4-4b9b-91af-c1f715d8c105,The Hogless Roast - The Oval 23,,,,,GBR,The Hogless Roast - The Oval 23,Active,1,2023-05-24 08:36:40,[],Trader
+a8270cfb-9f8b-46b1-b269-c0fa7064878c,The Little Parlour (Scotland),,,,,GBR,The Little Parlour (Scotland),Active,1,2022-08-02 11:44:08,[],Trader
+703d47b2-4614-408a-b78f-5091217d4da7,The Love Food Co/ The Love Greek Co,,,,,GBR,The Love Food Co/ The Love Greek Co,Active,1,2025-12-17 14:14:46,[],Trader
+7cbe5fc5-aae7-47b1-9491-9ce00ec123b4,The Mobile Coffee Bean,"The National Theatre, Upper Ground",London,,SE1 9PX,GBR,The Mobile Coffee Bean,Active,1,2021-06-29 09:48:24,[],Trader
+741019ac-5327-40be-9a9c-f1af55bee53f,The Oven,,,,,GBR,AIG24,Active,1,2024-08-14 13:07:05,[],Trader
+46e07b8a-4660-49cd-b2fa-a9147cd87abf,The Scran Box,,,,,GBR,The Scran Box,Active,1,2023-08-15 16:05:35,[],Trader
+75364a6b-1472-473b-bb28-6d2e834888a7,The Spice is Right,,,,,GBR,The Spice is Right,Active,1,2022-09-22 10:24:52,[],Trader
+c14c9418-3e6b-49cf-b042-c6dd20332631,The Suya Pit,,,,,GBR,The Suya Pit,Active,1,2025-03-20 12:41:50,[],Trader
+bb9da522-c647-4c31-9df2-176e4c5da6a8,The Wing Guys,,,,,GBR,The Wing Guys,Active,1,2022-04-26 15:43:23,[],Trader
+52506559-a767-4297-a358-51e1f9364599,Tongue & Cheek,,,,,GBR,Tongue & Cheek,Active,1,2022-10-01 12:27:08,[],Trader
+2f75cee8-f26c-457d-bd34-f6e7bdd75bcd,Tori & Ben's,,,,,GBR,Tori & Ben's,Active,1,2024-08-19 10:35:11,[],Trader
+c32a1b0f-5539-4ccd-8415-61ef2eaae286,Treats Club - EVENTS,,,,,GBR,Treats Club,Active,1,2021-10-05 14:11:56,[],Trader
+42acd8ea-4666-4774-8e9e-b226825d65e2,Treats Club - The Oval,,,,,GBR,Treats Club - The Oval,Inactive,0,2021-08-18 14:07:34,[],Trader
+6d85ae47-490e-4a5f-8205-dbb1187b3d7b,Tribeca Deli,,,,,GBR,,Active,1,2024-06-03 16:17:50,[],Trader
+f3abcf79-2ed6-4192-881b-d6385eff2ecb,Triple B,,,,,GBR,Manchester,Active,1,2024-08-06 13:37:58,[],Trader
+8fe83875-89e0-4a53-a46f-873e7d741092,Truffle,,,,,GBR,Truffle,Active,1,2022-05-19 13:31:25,[],Trader
+fde3f1ca-6b3a-4efc-94d9-94709cae03f9,Twelves & Eights,,,,,GBR,Twelves & Eights,Active,1,2022-03-25 16:39:08,[],Trader
+b022d621-ca00-4718-be4c-08f8e56bcc8c,Twerk N Jerk,,,,,GBR,Twerk N Jerk,Active,1,2023-03-09 13:41:03,[],Trader
+7b7cc6b2-10b2-48b1-b4ee-9a0d4e59b5c5,Uncle G's,,,,,GBR,Uncle G's,Active,1,2022-06-08 17:39:43,[],Trader
+a61d41ca-3674-4d37-a8ba-c73b886a0c39,Ustick!,,,,,GBR,Ustick,Active,1,2022-06-14 11:58:07,[],Trader
+14c534a1-708c-43c1-b0c3-d9942b482eee,Utter Waffle - EVENTS,,,,,GBR,Utter Waffle,Active,1,2021-08-06 08:45:45,[],Trader
+b1980479-5172-4dac-9258-68d96b7ede0b,Utter Waffle - KEW GARDENS,"Royal Botanic Gardens, Kew Richmond",London,,TW9 3AE,GBR,Utter Waffle - KEW GARDENS,Active,1,2021-11-12 16:30:53,[],Trader
+c4713640-e5eb-4d92-afe7-54f7d8393332,Utter Waffle - NFL,,,,,GBR,Utter Waffle - NFL,Inactive,0,2021-10-05 14:44:43,[],Trader
+1efe99fe-003d-4035-ab10-82f8567d988b,Voodoo Fries,,,,,GBR,Voodoo Fries,Active,1,2025-10-06 12:08:36,[],Trader
+6bcaad1a-e137-47ee-80a4-1b6cffaf9e8d,WHAT THE PITTA 1,,,,,GBR,WHAT THE PITTA 1,Active,1,2025-09-03 15:17:21,[],Trader
+91a75472-f868-4048-97c0-6c6b36bba913,Wave,,,,,GBR,Wave,Active,1,2022-05-25 11:36:13,[],Trader
+97b8c8a3-8891-4407-bd51-293492c87be4,Well Kneaded,,,,,GBR,Well Kneaded,Active,1,2022-12-06 15:24:38,[],Trader
+05a4c525-4256-4266-84db-cc6bc3b2ba79,Well Kneaded - HCP,,,,,GBR,Well Kneaded - HCP,Active,1,2021-08-25 09:41:03,[],Trader
+ead4ca76-29a5-4385-a327-d5b3f4f9f9a3,Well Nice,,,,,GBR,Well Nice,Active,1,2023-04-13 22:30:39,[],Trader
+b77a1083-7a8f-4e3a-9cb7-09216f4189b2,Yaay Yaay,,,,,GBR,Yaay Yaay,Active,1,2024-07-08 12:39:08,[],Trader
+2bb3025c-175c-4e68-812e-eaf28381dcd6,Yardbirds,,,,,GBR,Yardbirds,Active,1,2022-03-02 21:49:30,[],Trader
+aaa0196c-da21-4082-9e47-b0dffc147529,Yardbirds - OVAL 2024,,,,,GBR,Yardbirds - OVAL 2024,Active,1,2023-05-24 08:40:27,[],Trader
+8377ecd7-4bb1-4f25-a1ca-ff7f3f9287ff,Yella,,,,,GBR,AIG24,Active,1,2024-08-14 14:42:53,[],Trader
+07107490-41f3-4c58-b9c1-c48a23d96e31,You Bao,,,,,GBR,You Bao,Active,1,2025-10-08 13:31:47,[],Trader
+1b1c8e4e-7b90-4f6e-9309-55c0247b479a,Zest Kitchen,,,,,GBR,Zest Kitchen,Active,1,2023-10-18 12:03:19,[],Trader
+bce8738b-c4cd-4c2b-92fd-e2d50c8f418d,duckshed - OVAL2024,,,,,GBR,OVAL 2024,Active,1,2024-07-13 10:07:53,[],Trader
+d5522c01-95e7-481b-aede-f7ecb45e0edc,AIG GOLF,,,,,GBR,AIG GOLF,Active,1,2023-07-11 13:39:14,[],Bar
+166b97aa-4ba7-471e-abda-7bc707685a64,AINTREE,,,,,GBR,Aintree,Active,1,2023-03-23 15:32:34,[],Bar
+e2243fc3-8f86-4e61-9809-3ee52e5843ec,ALPINE 1,,,,,GBR,ALPINE1,Active,1,2023-02-14 13:24:35,[],Bar
+1eeb9f2a-876f-452c-85c7-d5d0c0946793,ALPINE 2,,,,,GBR,ALPINE2,Active,1,2023-02-14 13:25:08,[],Bar
+5f075061-10e5-4b15-90a7-3b6afe413a83,ASTON VILLA,,,,,GBR,ASTON VILLA,Active,1,2022-03-01 16:28:44,[],Bar
+36d7b5dc-4949-415c-ba0c-e1649aa4f9ae,BIRMINGHAM CITY,,,,,GBR,,Active,1,2025-08-22 12:38:45,[],Bar
+6a432d8f-2ddd-4b81-b673-3531219db356,Battersea Park,,,,,GBR,Battersea,Active,1,2024-06-12 20:13:57,[],Bar
+0ded6895-9c56-43a0-b282-65245ce66f00,CHELSEA,"Stamford Bridge, Fulham Rd, London, SW61HS",,,,GBR,CHELSEA,Active,1,2022-08-25 13:16:21,[],Bar
+7f5a5b23-e2cf-47a6-b052-2a160c5fc128,CHELTENHAM,,,,,GBR,CHELTENHAM,Active,1,2022-03-02 15:49:26,[],Bar
+77f2fb95-c90b-4ebf-ab0e-98b0145dfd41,DUXFORD,IWM Duxford Airfield,CAMBRIDGE,,CB22 4QR,GBR,DUX,Active,1,2023-08-30 15:38:22,[],Bar
+39ed1f06-b4e4-4a83-b166-84985efc48c5,Drumsheds,,,,,GBR,Drumsheds 24,Active,1,2024-10-01 11:50:01,[],Bar
+16cc4a07-2139-49d4-bfde-8b8c11c069b9,EPSOM,,,,,GBR,Epsom,Active,1,2024-05-17 16:19:40,[],Bar
+ef4542eb-fc05-408e-86d7-8255a2cc561d,EVENTS 1,,,,,GBR,Events 1,Active,1,2022-03-01 10:49:05,[],Bar
+c8b91642-b41b-435a-a89f-9452d9ebf652,EVENTS 2,,,,,GBR,EVENTS 2,Active,1,2022-06-28 10:34:15,[],Bar
+59488dbb-c46f-493a-aa73-2c7e5fd8c263,EVENTS 3,,,,,GBR,EVENTS 3,Active,1,2022-03-01 10:49:24,[],Bar
+2843280b-9bfe-4df6-85f5-ab080856aa5b,GOODWOOD,,,,,GBR,GOODWOOD,Active,1,2023-07-11 15:32:43,[],Bar
+23bf328a-5baf-4e8f-98ff-b6b3446b5ba4,GOODWOOD 2025,,,,,GBR,GOODWOOD 2025,Active,1,2025-06-26 11:09:20,[],Bar
+58540b5a-7b53-4d1a-8001-e3b86f9101e7,HAMPTON COURT,Hampton court road  - Kingston gate entrance,,,KT1 4AE,GBR,HAMPTON COURT,Active,1,2022-11-04 12:23:15,[],Bar
+b416c58f-9fe7-4f09-9755-2a47d0115cc1,HQ,,,,,GBR,HQ,Active,1,2022-03-01 10:49:39,[],Bar
+57e50473-e7ce-48a8-98d2-93a01aba7ab2,Hampton Ice cream,,,,,GBR,Ice cream,Active,1,2024-06-17 14:30:19,[],Bar
+b348756d-47d9-4d3a-8571-b5be5e8dd903,KEL Tastings,,,,,GBR,KEL tastings,Active,1,2024-03-13 11:58:26,[],Bar
+d29c0f4e-d7b6-4043-8e1e-2bc846d012ff,KEW GARDENS,,,,,GBR,KEW GARDENS,Active,1,2022-08-26 16:13:53,[],Bar
+9dde0ee1-7457-4a3b-8e0d-3840a51e00c6,KEW GARDENS 2023,,,,,GBR,KEW 2023,Active,1,2023-10-19 10:55:54,[],Bar
+c83bc702-45c8-426a-9719-82d44f944187,KEW GARDENS 2025,"Shaft Yard, Kew Road ,Richmond",TW9 3ED,,TW9 3ED,GBR,KEW 2025,Active,1,2024-10-07 07:52:47,[],Bar
+102a90ad-5881-4dae-9b10-24ed96a162ed,KNEBWORTH HOUSE,,,,,GBR,KNE,Active,1,2025-06-10 14:29:34,[],Bar
+cbe6712c-7d45-4a80-ae43-fb338b2571c4,LEICESTER TIGERS,"Mattioli Woods Welford Road Stadium, Leicester Tigers, LE27TR",,,,GBR,LEICESTER TIGERS,Active,1,2022-08-04 13:30:59,[],Bar
+d4e53d86-cee1-4ec1-9daa-9df6b2e5f417,LIV Golf,"Hemel Hempstead Rd, Hemel Hempstead HP3 8LA",,,,GBR,LIV Golf,Inactive,0,2022-06-06 15:11:45,[],Bar
+7b0b7ba8-2665-4b36-9054-d9edbaea75f8,LIV Golf - Coffee,,,,,GBR,LIV Golf - Coffee,Inactive,0,2022-06-08 18:22:16,[],Bar
+9c1a60b7-87fd-4af6-ae12-b86c904dbf66,MITCHAM WAREHOUSE,"Unit 36, Wates way industrial estate, Mitcham, Surrey",London,,CR4 4HR,GBR,ORPINGTON WAREHOUSE,Active,1,2022-02-07 19:51:05,[],Bar
+3bf97e35-cf22-41dd-bc01-e6454969a7ba,NATIONAL GALLERY SOTS,,,,,GBR,NATIONAL GALLERY SOTS,Inactive,0,2022-08-10 11:05:30,[],Bar
+68c1f977-dfab-404b-b121-0e0c85a40520,NEC,,Birmingham,,,GBR,NEC,Active,1,2025-07-02 14:07:18,[],Bar
+193b64ec-11cd-46a0-86a9-1b89a27c1e66,NOTTINGHAM FOREST,,,,,GBR,NOTTINGHAM FOREST,Active,1,2024-05-21 08:06:43,[],Bar
+d3742d3f-3e13-4140-8102-05202ab5f749,OVAL,,,,,GBR,OVAL,Active,1,2022-05-17 08:35:29,[],Bar
+1a50ecf9-7dca-498d-a755-97c65acc34f8,ROBBIE WILLIAMS,"The Royal crescent, Nr Marlborough Buildings,",Bath,,BA1 2LX,GBR,ROBBIE,Active,1,2025-05-27 09:51:07,[],Bar
+a3afe335-52bf-4606-810f-f3aa4ea92495,"SDM BARS - 35 EARLHAM ST, LONDON WC2H 9LD",Kerb Seven Dials Market 35 Earlham Street,London,,W2CH 9LD,GBR,SDM BARS,Active,1,2022-02-16 09:39:27,[],Bar
+bc6b08d3-973f-48ae-a839-7f51a534ad86,SDM WAREHOUSE STOCK,,,,,GBR,SDM warehouse,Active,1,2023-04-27 06:59:20,[],Bar
+03d1dd43-16c4-47c2-9fec-ed7c5142f14c,SHEFFIELD,,,,,GBR,SHEFFIELD,Active,1,2025-05-15 14:08:04,[],Bar
+ae1fe315-6ebe-4b21-aa77-c19a1ca4ef51,SHEFFIELD,,,,,GBR,SHEFFIELD,Inactive,0,2023-05-15 11:07:21,[],Bar
+255448e5-6a54-4f9e-97e7-2a64fb61b296,SOMERSET HOUSE,,,,,GBR,SOMERSET HOUSE,Active,1,2024-07-06 05:29:57,[],Bar
+c5e9781e-431d-4aea-b0d1-41bb79811d5a,SUPER BLOOM22,"Kerb Poppies Room, Tower of London, St Katherine's Dock Way",lONDON,,E1W1LE,GBR,SUPER BLOOM22,Inactive,0,2022-05-10 09:58:13,[],Bar
+15c5f789-8b59-408a-a05d-a495b098afdb,SUPPLIER RETURNS,,,,,GBR,SUPPLIER RETURNS,Inactive,0,2023-08-03 15:56:08,[],Bar
+4c53138b-eea5-4333-86bf-0da8a4e94837,Shoreditch Gardens,,,,,GBR,EVENTS 2,Active,1,2022-03-01 10:49:14,[],Bar
+f1b61ec4-0ac4-4d46-8416-3ee37c61dd6e,TOTTENHAM,"Tottenham hotspur stadium 782 High Rd, London",London,,N17 0BX,GBR,TOTTENHAM,Active,1,2022-06-15 15:35:13,[],Bar
+895d859a-737c-4e86-a7fc-83bafde8b626,WASING,,,,,GBR,WASING,Active,1,2024-06-12 06:09:25,[],Bar
+baab93b2-8eda-4d65-ac48-d3b8d94ab5cd,WASTAGE (GONE OFF STOCK),,,,,GBR,WASTAGE,Active,1,2023-02-28 17:14:48,[],Bar
+414a8d0b-d8e5-4f4f-b3ad-58762df94430,WATFORD,"Vicarage Road, Watford , occupation road",,,WD180ER,GBR,WATFORD,Inactive,0,2022-06-15 15:36:04,[],Bar
+9a9ef84d-2abc-42aa-91f1-7f8ff03cedb2,WATFORD,,,,,GBR,WATFORD,Active,1,2025-10-27 12:30:19,[],Bar
+4246636a-1410-4f66-9077-690d833c7820,WIMBLEDON,,,,,GBR,WIMBLEDON,Active,1,2022-06-24 12:18:34,[],Bar
+623913e9-2b10-43c5-b4bf-b5bbb3fc858a,WOLVES,,,,,GBR,WOLVES,Active,1,2023-08-17 19:05:51,[],Bar
+7739597c-1d50-44ae-961e-d592c13e8005,XCELERATE,,,,,GBR,XCELERATE,Active,1,2024-05-20 12:32:37,[],Bar
+d55b02a8-e84e-4b13-abce-f2380b2b9673,Barneys Pizza,"49-51, Marine Terrace",Margate,,CT9 1XJ,GBR,Barneys Pizza,Inactive,0,2024-04-26 14:54:49,[],Dreamland
+b554949e-58b0-405f-9946-275abec56c79,Beastie Baos (ex Sea Shanty),"49-51, Marine Terrace",Margate,,CT9 1XJ,GBR,Beastie Baos,Active,1,2024-04-26 14:57:27,[],Dreamland
+f022750e-f939-420d-9609-0c9dc05c619f,Big Shot,"49-51, Marine Terrace",Margate,Kent,CT9 1XJ,GBR,Big Shot,Inactive,0,2023-12-07 11:22:25,[],Dreamland
+d6c61971-f55c-479d-9f5c-4eb782e27272,Bigshot,"49-51, Marine Terrace",Margate,,CT9 1XJ,GBR,Bigshot,Active,1,2024-06-07 13:33:49,[],Dreamland
+4f439970-22a1-4def-9d12-1e2bed738cfb,Birdie Macs,"49-51, Marine Terrace",Margate,,CT9 1XJ,GBR,Birdie Macs,Active,1,2024-05-07 13:27:28,[],Dreamland
+be26be2a-6366-4f92-8d14-e5f910300966,Chicken Bandits (Recessland),"Hall by the Sea Rd, Marine Terrace",Margate,,CT9 1XJ,GBR,Chicken Bandits (Recessland),Inactive,0,2025-05-20 13:50:22,[],Dreamland
+af357e3f-ebc2-47a2-8559-c27e28e64f49,Chix Stock,"49-51, Marine Terrace",Margate,Kent,CT9 1XJ,GBR,Chix Stock,Active,1,2024-11-22 15:47:30,[],Dreamland
+c5d89804-e98b-4b31-838f-925be204310a,Cinque Ports,,,,,GBR,Cinque Ports,Active,1,2024-09-16 10:35:13,[],Dreamland
+492e3641-272f-4d40-8cde-1cd01dc0c07b,DoD Pizza,"49-51, Marine Terrace",Margate,,CT9 1XJ,GBR,DoD Pizza,Active,1,2024-08-15 12:41:09,[],Dreamland
+9efb4c92-9652-4425-b398-6d1c7006800a,Filligrilz (Recessland),"Hall by the Sea Rd, Marine Terrace",Margate,,CT9 1XJ,GBR,Filligrilz (Recessland),Inactive,0,2025-05-20 14:04:47,[],Dreamland
+774a0bc6-20d9-4500-a4c6-1cde858263b9,Hide And Greek,"49-51, Marine Terrace",Margate,,CT9 1XJ,GBR,Hide And Greek,Inactive,0,2024-06-09 11:33:43,[],Dreamland
+df05ec1d-e959-4938-82f3-f0b74a814645,Jerk N Lobster (Recessland),"Hall by the Sea Rd, Marine Terrace",Margate,,CT9 1XJ,GBR,Jerk N Lobster (Recessland),Inactive,0,2025-05-20 13:58:13,[],Dreamland
+4f8b2870-0c41-4aee-b59f-9c383beed667,KERB Coffee,"49-51, Marine Terrace",Margate,,CT9 1XJ,GBR,Coffee,Active,1,2024-04-26 14:56:36,[],Dreamland
+8f564bd6-860c-4514-b84d-0551729c9252,Karma Coffee,"49-51, Marine Terrace",Margate,,CT9 1XJ,GBR,,Active,1,2025-06-13 08:40:14,[],Dreamland
+ad30dbca-be88-4020-b0bf-fdb89ed85763,Karma Coffee,"49-51, Marine Terrace",Margate,Kent,CT9 1XJ,GBR,Karma Coffee,Inactive,0,2024-08-22 14:13:22,[],Dreamland
+94396f3c-d9c0-4b45-b38d-a65997140b47,Main Outlet,49 MARINE TERRACE,MARGATE,Kent,CT9 1XJ,GBR,,Active,1,2023-09-27 18:36:20,[],Dreamland
+73dd4dfb-cb8c-4957-8fdf-b1701e50b763,Only Jerkin' (Recessland),"Hall by the Sea Rd, Marine Terrace",Margate,,CT9 1XJ,GBR,Only Jerkin' (Recessland),Inactive,0,2025-05-20 13:47:20,[],Dreamland
+76cbce81-f742-4d21-9a1c-a7a0e5580766,Rad Burger,"49-51, Marine Terrace",Margate,,CT9 1XJ,GBR,Rad Burger,Active,1,2024-04-26 14:58:15,[],Dreamland
+36b851d4-ea80-4ff1-9108-192ef5d894a5,Roller Cafe,"49-51, Marine Terrace",Margate,,CT9 1XJ,GBR,Roller Cafe,Active,1,2024-07-09 10:46:09,[],Dreamland
+12147d91-99fb-41ef-be4d-f40d89e4d1b7,Stakehaus,"49-51, Marine Terrace",Margate,Kent,CT9 1XJ,GBR,Stakehaus,Active,1,2024-11-12 12:03:31,[],Dreamland
+8784c15a-9ac7-4592-a46a-830a6ec2495a,Supplier returns,,,,,GBR,,Inactive,0,2025-06-03 08:35:59,[],Dreamland
+89a733fc-2a33-45a2-a509-54714535174f,Suya Pit (Recessland),"Hall by the Sea Rd, Marine Terrace",Margate,,CT9 1XJ,GBR,Suya Pit (Recessland),Inactive,0,2025-05-20 13:55:02,[],Dreamland
+ed59d52d-315d-4a90-b238-2d47e1d86c06,T's Tacos,"49-51, Marine Terrace",Margate,,CT9 1XJ,GBR,T's Tacos,Active,1,2024-05-14 16:27:23,[],Dreamland
+b0b12c95-15cf-443d-875a-0d997712fdca,Test Outlet,Dreamland,Margate,,,GBR,Test,Active,1,2025-07-03 13:57:45,[],Dreamland
+1079b784-fdb7-4eec-9059-64c9556c70b4,The Happy Pot,"49-51, Marine Terrace",Margate,Kent,CT9 1XJ,GBR,The Happy Pot,Inactive,0,2024-07-25 12:03:26,[],Dreamland
+24c9de4c-4bed-4a57-9756-17e47b1c978d,Twerk N Jerk (Recessland),"Hall by the Sea Rd, Marine Terrace",Margate,,CT9 1XJ,GBR,Twerk N Jerk (Recessland),Active,1,2025-05-20 13:56:42,[],Dreamland
