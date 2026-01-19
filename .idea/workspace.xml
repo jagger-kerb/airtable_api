@@ -5,10 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7ccaa154-1c4b-4d27-b487-65ce9f84063e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.github/workflows/reg_out_export.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Goodtill-fetch-reg-outlet.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/airtable_api.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/airtable_api.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Goodtill-fetch-reg-outlet.py" beforeDir="false" afterPath="$PROJECT_DIR$/Goodtill-fetch-reg-outlet.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
