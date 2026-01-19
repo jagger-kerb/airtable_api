@@ -1,30 +1,45 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="7ccaa154-1c4b-4d27-b487-65ce9f84063e" name="Changes" comment="" />
+    <list default="true" id="7ccaa154-1c4b-4d27-b487-65ce9f84063e" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.github/workflows/reg_out_export.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Goodtill-fetch-reg-outlet.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/airtable_api.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/airtable_api.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "jagger-kerb"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;jagger-kerb&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/jagger-kerb/airtable_api.git",
-    "accountId": "a9e92696-8064-4e2d-bd36-027b7dbf7f49"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/jagger-kerb/airtable_api.git&quot;,
+    &quot;accountId&quot;: &quot;a9e92696-8064-4e2d-bd36-027b7dbf7f49&quot;
   }
-}]]></component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 0
-}]]></component>
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
   <component name="ProjectId" id="38In0U2bMbEiAuuCioaEjE9kc8c" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -35,9 +50,15 @@
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "main"
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/Users/JaggerGarcia/OneDrive - KERB Group Ltd/Documents/GitHub/airtable_api/.github/workflows"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\JaggerGarcia\OneDrive - KERB Group Ltd\Documents\GitHub\airtable_api\.github\workflows" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
