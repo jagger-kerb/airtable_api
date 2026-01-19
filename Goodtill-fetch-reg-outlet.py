@@ -110,7 +110,7 @@ if __name__ == '__main__':
     dl_registers_df = pd.DataFrame(dl_registers)
     dl_registers_df['Area'] = "Dreamland"
 
-    reg_drop_cols = ["quick_keys_id","table_quick_keys_id","receipt_template_id","printer_id,reg_order_from","reg_order_to","reg_display_no","cash_float","print_settings"]
+    reg_drop_cols = ["quick_keys_id","table_quick_keys_id","receipt_template_id","printer_id","reg_order_from","reg_order_to","reg_display_no","cash_float","print_settings"]
 
     outlets = pd.concat([trader_outlets_df,bar_outlets_df,dl_outlets_df],ignore_index=True)
     registers = pd.concat([trader_registers_df,bar_registers_df,dl_registers_df],ignore_index=True)
