@@ -80,7 +80,7 @@ def main():
         rows.append(row)
 
     df = pd.DataFrame(rows)
-    df_flat = df.applymap(flatten_cell)
+    df_flat = df.map(flatten_cell)
 
     # Ensure output folder exists
     os.makedirs(os.path.dirname(OUTPUT_CSV) or ".", exist_ok=True)
