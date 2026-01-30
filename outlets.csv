@@ -307,14 +307,14 @@ aaa0196c-da21-4082-9e47-b0dffc147529,Yardbirds - OVAL 2024,,,,,GBR,Yardbirds - O
 07107490-41f3-4c58-b9c1-c48a23d96e31,You Bao,,,,,GBR,You Bao,Active,1,2025-10-08 13:31:47,[],Trader
 1b1c8e4e-7b90-4f6e-9309-55c0247b479a,Zest Kitchen,,,,,GBR,Zest Kitchen,Active,1,2023-10-18 12:03:19,[],Trader
 bce8738b-c4cd-4c2b-92fd-e2d50c8f418d,duckshed - OVAL2024,,,,,GBR,OVAL 2024,Active,1,2024-07-13 10:07:53,[],Trader
-d5522c01-95e7-481b-aede-f7ecb45e0edc,AIG GOLF,,,,,GBR,AIG GOLF,Active,1,2023-07-11 13:39:14,[],Bar
-166b97aa-4ba7-471e-abda-7bc707685a64,AINTREE,,,,,GBR,Aintree,Active,1,2023-03-23 15:32:34,[],Bar
-e2243fc3-8f86-4e61-9809-3ee52e5843ec,ALPINE 1,,,,,GBR,ALPINE1,Active,1,2023-02-14 13:24:35,[],Bar
-1eeb9f2a-876f-452c-85c7-d5d0c0946793,ALPINE 2,,,,,GBR,ALPINE2,Active,1,2023-02-14 13:25:08,[],Bar
+d5522c01-95e7-481b-aede-f7ecb45e0edc,AIG GOLF,,,,,GBR,AIG GOLF,Inactive,0,2023-07-11 13:39:14,[],Bar
+166b97aa-4ba7-471e-abda-7bc707685a64,AINTREE,,,,,GBR,Aintree,Inactive,0,2023-03-23 15:32:34,[],Bar
+e2243fc3-8f86-4e61-9809-3ee52e5843ec,ALPINE 1,,,,,GBR,ALPINE1,Inactive,0,2023-02-14 13:24:35,[],Bar
+1eeb9f2a-876f-452c-85c7-d5d0c0946793,ALPINE 2,,,,,GBR,ALPINE2,Inactive,0,2023-02-14 13:25:08,[],Bar
 5f075061-10e5-4b15-90a7-3b6afe413a83,ASTON VILLA,,,,,GBR,ASTON VILLA,Active,1,2022-03-01 16:28:44,[],Bar
 36d7b5dc-4949-415c-ba0c-e1649aa4f9ae,BIRMINGHAM CITY,,,,,GBR,,Active,1,2025-08-22 12:38:45,[],Bar
 6a432d8f-2ddd-4b81-b673-3531219db356,Battersea Park,,,,,GBR,Battersea,Active,1,2024-06-12 20:13:57,[],Bar
-0ded6895-9c56-43a0-b282-65245ce66f00,CHELSEA,"Stamford Bridge, Fulham Rd, London, SW61HS",,,,GBR,CHELSEA,Active,1,2022-08-25 13:16:21,[],Bar
+0ded6895-9c56-43a0-b282-65245ce66f00,CHELSEA,"Stamford Bridge, Fulham Rd, London, SW61HS",,,,GBR,CHELSEA,Inactive,0,2022-08-25 13:16:21,[],Bar
 7f5a5b23-e2cf-47a6-b052-2a160c5fc128,CHELTENHAM,,,,,GBR,CHELTENHAM,Active,1,2022-03-02 15:49:26,[],Bar
 77f2fb95-c90b-4ebf-ab0e-98b0145dfd41,DUXFORD,IWM Duxford Airfield,CAMBRIDGE,,CB22 4QR,GBR,DUX,Active,1,2023-08-30 15:38:22,[],Bar
 39ed1f06-b4e4-4a83-b166-84985efc48c5,Drumsheds,,,,,GBR,Drumsheds 24,Active,1,2024-10-01 11:50:01,[],Bar
@@ -338,7 +338,7 @@ d4e53d86-cee1-4ec1-9daa-9df6b2e5f417,LIV Golf,"Hemel Hempstead Rd, Hemel Hempste
 9c1a60b7-87fd-4af6-ae12-b86c904dbf66,MITCHAM WAREHOUSE,"Unit 36, Wates way industrial estate, Mitcham, Surrey",London,,CR4 4HR,GBR,ORPINGTON WAREHOUSE,Active,1,2022-02-07 19:51:05,[],Bar
 3bf97e35-cf22-41dd-bc01-e6454969a7ba,NATIONAL GALLERY SOTS,,,,,GBR,NATIONAL GALLERY SOTS,Inactive,0,2022-08-10 11:05:30,[],Bar
 68c1f977-dfab-404b-b121-0e0c85a40520,NEC,,Birmingham,,,GBR,NEC,Active,1,2025-07-02 14:07:18,[],Bar
-193b64ec-11cd-46a0-86a9-1b89a27c1e66,NOTTINGHAM FOREST,,,,,GBR,NOTTINGHAM FOREST,Active,1,2024-05-21 08:06:43,[],Bar
+193b64ec-11cd-46a0-86a9-1b89a27c1e66,NOTTINGHAM FOREST,,,,,GBR,NOTTINGHAM FOREST,Inactive,0,2024-05-21 08:06:43,[],Bar
 d3742d3f-3e13-4140-8102-05202ab5f749,OVAL,,,,,GBR,OVAL,Active,1,2022-05-17 08:35:29,[],Bar
 1a50ecf9-7dca-498d-a755-97c65acc34f8,ROBBIE WILLIAMS,"The Royal crescent, Nr Marlborough Buildings,",Bath,,BA1 2LX,GBR,ROBBIE,Active,1,2025-05-27 09:51:07,[],Bar
 a3afe335-52bf-4606-810f-f3aa4ea92495,"SDM BARS - 35 EARLHAM ST, LONDON WC2H 9LD",Kerb Seven Dials Market 35 Earlham Street,London,,W2CH 9LD,GBR,SDM BARS,Active,1,2022-02-16 09:39:27,[],Bar
@@ -355,16 +355,16 @@ baab93b2-8eda-4d65-ac48-d3b8d94ab5cd,WASTAGE (GONE OFF STOCK),,,,,GBR,WASTAGE,Ac
 414a8d0b-d8e5-4f4f-b3ad-58762df94430,WATFORD,"Vicarage Road, Watford , occupation road",,,WD180ER,GBR,WATFORD,Inactive,0,2022-06-15 15:36:04,[],Bar
 9a9ef84d-2abc-42aa-91f1-7f8ff03cedb2,WATFORD,,,,,GBR,WATFORD,Active,1,2025-10-27 12:30:19,[],Bar
 4246636a-1410-4f66-9077-690d833c7820,WIMBLEDON,,,,,GBR,WIMBLEDON,Active,1,2022-06-24 12:18:34,[],Bar
-623913e9-2b10-43c5-b4bf-b5bbb3fc858a,WOLVES,,,,,GBR,WOLVES,Active,1,2023-08-17 19:05:51,[],Bar
-7739597c-1d50-44ae-961e-d592c13e8005,XCELERATE,,,,,GBR,XCELERATE,Active,1,2024-05-20 12:32:37,[],Bar
-d5522c01-95e7-481b-aede-f7ecb45e0edc,AIG GOLF,,,,,GBR,AIG GOLF,Active,1,2023-07-11 13:39:14,[],Dreamland
-166b97aa-4ba7-471e-abda-7bc707685a64,AINTREE,,,,,GBR,Aintree,Active,1,2023-03-23 15:32:34,[],Dreamland
-e2243fc3-8f86-4e61-9809-3ee52e5843ec,ALPINE 1,,,,,GBR,ALPINE1,Active,1,2023-02-14 13:24:35,[],Dreamland
-1eeb9f2a-876f-452c-85c7-d5d0c0946793,ALPINE 2,,,,,GBR,ALPINE2,Active,1,2023-02-14 13:25:08,[],Dreamland
+623913e9-2b10-43c5-b4bf-b5bbb3fc858a,WOLVES,,,,,GBR,WOLVES,Inactive,0,2023-08-17 19:05:51,[],Bar
+7739597c-1d50-44ae-961e-d592c13e8005,XCELERATE,,,,,GBR,XCELERATE,Inactive,0,2024-05-20 12:32:37,[],Bar
+d5522c01-95e7-481b-aede-f7ecb45e0edc,AIG GOLF,,,,,GBR,AIG GOLF,Inactive,0,2023-07-11 13:39:14,[],Dreamland
+166b97aa-4ba7-471e-abda-7bc707685a64,AINTREE,,,,,GBR,Aintree,Inactive,0,2023-03-23 15:32:34,[],Dreamland
+e2243fc3-8f86-4e61-9809-3ee52e5843ec,ALPINE 1,,,,,GBR,ALPINE1,Inactive,0,2023-02-14 13:24:35,[],Dreamland
+1eeb9f2a-876f-452c-85c7-d5d0c0946793,ALPINE 2,,,,,GBR,ALPINE2,Inactive,0,2023-02-14 13:25:08,[],Dreamland
 5f075061-10e5-4b15-90a7-3b6afe413a83,ASTON VILLA,,,,,GBR,ASTON VILLA,Active,1,2022-03-01 16:28:44,[],Dreamland
 36d7b5dc-4949-415c-ba0c-e1649aa4f9ae,BIRMINGHAM CITY,,,,,GBR,,Active,1,2025-08-22 12:38:45,[],Dreamland
 6a432d8f-2ddd-4b81-b673-3531219db356,Battersea Park,,,,,GBR,Battersea,Active,1,2024-06-12 20:13:57,[],Dreamland
-0ded6895-9c56-43a0-b282-65245ce66f00,CHELSEA,"Stamford Bridge, Fulham Rd, London, SW61HS",,,,GBR,CHELSEA,Active,1,2022-08-25 13:16:21,[],Dreamland
+0ded6895-9c56-43a0-b282-65245ce66f00,CHELSEA,"Stamford Bridge, Fulham Rd, London, SW61HS",,,,GBR,CHELSEA,Inactive,0,2022-08-25 13:16:21,[],Dreamland
 7f5a5b23-e2cf-47a6-b052-2a160c5fc128,CHELTENHAM,,,,,GBR,CHELTENHAM,Active,1,2022-03-02 15:49:26,[],Dreamland
 77f2fb95-c90b-4ebf-ab0e-98b0145dfd41,DUXFORD,IWM Duxford Airfield,CAMBRIDGE,,CB22 4QR,GBR,DUX,Active,1,2023-08-30 15:38:22,[],Dreamland
 39ed1f06-b4e4-4a83-b166-84985efc48c5,Drumsheds,,,,,GBR,Drumsheds 24,Active,1,2024-10-01 11:50:01,[],Dreamland
@@ -388,7 +388,7 @@ d4e53d86-cee1-4ec1-9daa-9df6b2e5f417,LIV Golf,"Hemel Hempstead Rd, Hemel Hempste
 9c1a60b7-87fd-4af6-ae12-b86c904dbf66,MITCHAM WAREHOUSE,"Unit 36, Wates way industrial estate, Mitcham, Surrey",London,,CR4 4HR,GBR,ORPINGTON WAREHOUSE,Active,1,2022-02-07 19:51:05,[],Dreamland
 3bf97e35-cf22-41dd-bc01-e6454969a7ba,NATIONAL GALLERY SOTS,,,,,GBR,NATIONAL GALLERY SOTS,Inactive,0,2022-08-10 11:05:30,[],Dreamland
 68c1f977-dfab-404b-b121-0e0c85a40520,NEC,,Birmingham,,,GBR,NEC,Active,1,2025-07-02 14:07:18,[],Dreamland
-193b64ec-11cd-46a0-86a9-1b89a27c1e66,NOTTINGHAM FOREST,,,,,GBR,NOTTINGHAM FOREST,Active,1,2024-05-21 08:06:43,[],Dreamland
+193b64ec-11cd-46a0-86a9-1b89a27c1e66,NOTTINGHAM FOREST,,,,,GBR,NOTTINGHAM FOREST,Inactive,0,2024-05-21 08:06:43,[],Dreamland
 d3742d3f-3e13-4140-8102-05202ab5f749,OVAL,,,,,GBR,OVAL,Active,1,2022-05-17 08:35:29,[],Dreamland
 1a50ecf9-7dca-498d-a755-97c65acc34f8,ROBBIE WILLIAMS,"The Royal crescent, Nr Marlborough Buildings,",Bath,,BA1 2LX,GBR,ROBBIE,Active,1,2025-05-27 09:51:07,[],Dreamland
 a3afe335-52bf-4606-810f-f3aa4ea92495,"SDM BARS - 35 EARLHAM ST, LONDON WC2H 9LD",Kerb Seven Dials Market 35 Earlham Street,London,,W2CH 9LD,GBR,SDM BARS,Active,1,2022-02-16 09:39:27,[],Dreamland
@@ -405,5 +405,5 @@ baab93b2-8eda-4d65-ac48-d3b8d94ab5cd,WASTAGE (GONE OFF STOCK),,,,,GBR,WASTAGE,Ac
 414a8d0b-d8e5-4f4f-b3ad-58762df94430,WATFORD,"Vicarage Road, Watford , occupation road",,,WD180ER,GBR,WATFORD,Inactive,0,2022-06-15 15:36:04,[],Dreamland
 9a9ef84d-2abc-42aa-91f1-7f8ff03cedb2,WATFORD,,,,,GBR,WATFORD,Active,1,2025-10-27 12:30:19,[],Dreamland
 4246636a-1410-4f66-9077-690d833c7820,WIMBLEDON,,,,,GBR,WIMBLEDON,Active,1,2022-06-24 12:18:34,[],Dreamland
-623913e9-2b10-43c5-b4bf-b5bbb3fc858a,WOLVES,,,,,GBR,WOLVES,Active,1,2023-08-17 19:05:51,[],Dreamland
-7739597c-1d50-44ae-961e-d592c13e8005,XCELERATE,,,,,GBR,XCELERATE,Active,1,2024-05-20 12:32:37,[],Dreamland
+623913e9-2b10-43c5-b4bf-b5bbb3fc858a,WOLVES,,,,,GBR,WOLVES,Inactive,0,2023-08-17 19:05:51,[],Dreamland
+7739597c-1d50-44ae-961e-d592c13e8005,XCELERATE,,,,,GBR,XCELERATE,Inactive,0,2024-05-20 12:32:37,[],Dreamland
